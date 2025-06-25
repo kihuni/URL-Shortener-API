@@ -45,10 +45,10 @@ pip install -r requirements.txt
 
 ```
 Step 4. Run migrations
-
+```
 
 python manage.py migrate
-
+```
 Step 5. Start the development server
 
 ```
