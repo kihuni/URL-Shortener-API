@@ -27,7 +27,7 @@ A simple and minimal URL shortening service built with Django and Django REST Fr
 Step 1. **Clone the repository**
 
 ```
-git clone https://github.com/yourusername/django-url-shortener.git
+git clone https://github.com/kihuni/URL-Shortener-API.git
 cd django-url-shortener
 ```
 
