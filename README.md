@@ -78,6 +78,7 @@ Responce:
     "created_at": "2025-06-25T17:16:09.756416Z"
 }
 ```
+![Screenshot from 2025-06-25 20-54-09](https://github.com/user-attachments/assets/e84cc4fb-d7b2-4d46-96e7-e6cc514f13ce)
 
 2. Redirect to the long URL
    
